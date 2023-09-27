@@ -1,0 +1,9 @@
+[submodule "cli"]
+	path = cli
+	url = https://github.com/elasticcode-ai/cli
+[submodule "api"]
+	path = api
+	url = https://elasticcode-ai@github.com/elasticcode-ai/api
+[submodule "ui"]
+	path = ui
+	url = https://github.com/elasticcode-ai/ui
