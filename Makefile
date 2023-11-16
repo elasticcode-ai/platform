@@ -4,6 +4,7 @@
 .PHONY: clean
 clean:
 	@echo "Cleaning"
+	( cd ui; quasar clean )
 
 .PHONY: build
 build:
