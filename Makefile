@@ -5,6 +5,7 @@
 clean:
 	@echo "Cleaning"
 	( cd ui; quasar clean )
+	( cd cli; venv/bin/python setup.py clean )
 
 .PHONY: build
 build:
