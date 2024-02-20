@@ -7,3 +7,6 @@
 [submodule "ui"]
 	path = ui
 	url = https://github.com/elasticcode-ai/ui
+[submodule "web"]
+	path = web
+	url = https://github.com/elasticcode-ai/web
