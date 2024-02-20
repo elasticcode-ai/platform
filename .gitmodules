@@ -10,3 +10,6 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/elasticcode-ai/web
+[submodule "apps"]
+	path = apps
+	url = ./apps
