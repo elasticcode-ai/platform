@@ -31,6 +31,7 @@ install:
 .PHONY: update
 update:
 	@echo "Updating"
+	( cd ui; make update)
 
 .PHONY: all
 all: clean install update build
